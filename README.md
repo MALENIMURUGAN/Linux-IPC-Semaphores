@@ -113,13 +113,11 @@ if(NUM_LOOPS>=10)    {
 ## OUTPUT 
  $ /sem.o 
 
-![image](https://github.com/MALENIMURUGAN/Linux-IPC-Semaphores/assets/144870675/ce134e9e-0ea0-4b51-b516-dd6d67b8aed0)
-
+![322712625-6ad57f54-ad05-4e9f-8258-24dca14427c6](https://github.com/nicknikesh/Linux-IPC-Semaphores/assets/145633284/06182566-a261-4ea7-8189-d3cbf91ca1b4)
 
 $ ipcs
 
-![image](https://github.com/MALENIMURUGAN/Linux-IPC-Semaphores/assets/144870675/5031618d-603b-46d9-b17a-cb073b3effe0)
-
+![322712663-4b615bc9-4ed2-4af0-aac8-a5228c17a9dd](https://github.com/nicknikesh/Linux-IPC-Semaphores/assets/145633284/c8dbf1ca-396c-4e18-8f1d-a27262fa8b8b)
 
 
 
